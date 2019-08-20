@@ -8,7 +8,7 @@
 
 `npm install nativescript-plugin-firebase`
 
-* Modificare nel file `package.json` la versione di nativescript-plugin-firebase, per la versione "9.0.4"
+* Modificare nel file `package.json` la versione di nativescript-plugin-firebase, per la versione "7.1.2"
 
 ![01](./images/01b.png)
 
